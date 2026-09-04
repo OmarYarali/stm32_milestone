@@ -117,11 +117,11 @@ int main(void)
 
 		if (incoming_data == '1'){
 			HAL_GPIO_WritePin(GPIOE, GPIO_PIN_13, GPIO_PIN_RESET);
-			printf("Turned ON\r\n");
+			printf("l am so turned ON\r\n");
 		}
 		else if (incoming_data == '0'){
 			HAL_GPIO_WritePin(GPIOE, GPIO_PIN_13, GPIO_PIN_SET);
-			printf("Turned OFF\r\n");
+			printf("l am so turned OFF\r\n");
 		}
 	}
 
