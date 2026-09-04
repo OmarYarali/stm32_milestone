@@ -1,11 +1,6 @@
-connections/org.eclipse.remote.serial.core.connectionType/Hell/serial.baudRate=11
-connections/org.eclipse.remote.serial.core.connectionType/Hell/serial.byteSize=3
-connections/org.eclipse.remote.serial.core.connectionType/Hell/serial.parity=0
-connections/org.eclipse.remote.serial.core.connectionType/Hell/serial.portName=COM12
-connections/org.eclipse.remote.serial.core.connectionType/Hell/serial.stopBits=0
-connections/org.eclipse.remote.serial.core.connectionType/Messi/serial.baudRate=11
-connections/org.eclipse.remote.serial.core.connectionType/Messi/serial.byteSize=3
-connections/org.eclipse.remote.serial.core.connectionType/Messi/serial.parity=0
-connections/org.eclipse.remote.serial.core.connectionType/Messi/serial.portName=COM12
-connections/org.eclipse.remote.serial.core.connectionType/Messi/serial.stopBits=0
+connections/org.eclipse.remote.serial.core.connectionType/Yaki/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/Yaki/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/Yaki/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/Yaki/serial.portName=COM12
+connections/org.eclipse.remote.serial.core.connectionType/Yaki/serial.stopBits=0
 eclipse.preferences.version=1
