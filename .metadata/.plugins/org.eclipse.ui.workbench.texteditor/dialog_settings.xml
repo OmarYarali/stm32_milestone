@@ -8,6 +8,8 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="nvic"/>
+			<item value="adc"/>
 			<item value="MX_USART"/>
 		</list>
 		<list key="replacehistory">
