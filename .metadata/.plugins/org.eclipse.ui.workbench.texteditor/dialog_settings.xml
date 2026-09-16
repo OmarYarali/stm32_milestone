@@ -9,6 +9,9 @@
 		<item key="isRegEx" value="false"/>
 		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="init"/>
+			<item value="comp_data"/>
+			<item value="CHIP"/>
 			<item value="voltage"/>
 			<item value="sw_i2c_t"/>
 			<item value="nvic"/>
