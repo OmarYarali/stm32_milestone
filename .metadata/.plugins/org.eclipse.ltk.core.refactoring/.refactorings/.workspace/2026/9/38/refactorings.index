@@ -1,2 +1,5 @@
-1789545808512	Delete resource 'Project_8_Review'
-1789545910092	Delete resource 'Project_8_SDIO/Project_7_SPI Debug.launch'
+1789563410461	Delete resource 'Project_9_BME280/Core/Src/bme280_support.c'
+1789563413409	Delete resource 'Project_9_BME280/Core/Src/bme280.c'
+1789563427913	Delete resource 'Project_9_BME280/Core/Inc/bme280.h'
+1789638015995	Delete resource 'Project_9_BME280'
+1789644087608	Delete resource 'Project_9_BMP280'

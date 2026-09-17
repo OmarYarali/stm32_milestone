@@ -7,14 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_8_SDIO"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_8_Review"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_7_SPI"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_6_I2C"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_5"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_4"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_3"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_2"/>
+			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_9_BMP280"/>
+			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_9_BME280"/>
 			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_1"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
@@ -24,7 +18,7 @@
 			<item key="DIALOG_X_ORIGIN" value="513"/>
 			<item key="DIALOG_Y_ORIGIN" value="76"/>
 			<item key="DIALOG_WIDTH" value="525"/>
-			<item key="DIALOG_HEIGHT" value="722"/>
+			<item key="DIALOG_HEIGHT" value="711"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
@@ -34,30 +28,22 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_2"/>
-			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON"/>
+			<item value="C:\Users\omar0\Desktop\KORDON_Projects\STM32_KORDON\Project_3"/>
 		</list>
 		<section name="STSmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="262"/>
-			<item key="DIALOG_Y_ORIGIN" value="102"/>
-			<item key="DIALOG_WIDTH" value="889"/>
-			<item key="DIALOG_HEIGHT" value="586"/>
-			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
-		</section>
-		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="330"/>
-			<item key="DIALOG_Y_ORIGIN" value="7"/>
-			<item key="DIALOG_WIDTH" value="891"/>
-			<item key="DIALOG_HEIGHT" value="637"/>
-			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+			<item key="DIALOG_X_ORIGIN" value="706"/>
+			<item key="DIALOG_Y_ORIGIN" value="187"/>
+			<item key="DIALOG_WIDTH" value="885"/>
+			<item key="DIALOG_HEIGHT" value="629"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
 	<section name="CleanDialogSettings">
 		<item key="BUILD_NOW" value="false"/>
 		<item key="BUILD_ALL" value="true"/>
-		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
 		<item key="DIALOG_WIDTH" value="500"/>
-		<item key="DIALOG_HEIGHT" value="465"/>
+		<item key="DIALOG_HEIGHT" value="468"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>
