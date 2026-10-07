@@ -142,7 +142,7 @@ int main(void)
 
 	  fres = f_open(&fil, "data.txt", FA_OPEN_APPEND | FA_WRITE);
 	  if(fres == FR_OK){
-		  UINT bytesWrote;
+		   UINT bytesWrote;
 		  f_write(&fil, log_buffer, strlen(log_buffer), &bytesWrote);
 		  f_close(&fil);
 	  }
